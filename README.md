@@ -9,6 +9,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,scss,css,docker,express,figma,firebase,supabase,github,html,java,js,linux,md,php,laravel,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,python,fastapi,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,scss,css,docker,express,figma,firebase,supabase,github,html,java,js,linux,md,php,laravel,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,python,fastapi,nuxtjs,vuejs,vscode&perline=14" />
   </a>
 </p>
