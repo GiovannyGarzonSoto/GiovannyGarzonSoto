@@ -1,5 +1,6 @@
 <h1>Hello!</h1>
 <p>Welcome to my Github Profile, Contact with me!</p>
+<h3>giovannygarzonsoto@gmail.com</h3>
 <div id="user-content-toc">
   <ul align="left">
     <summary><h3 style="display: inline-block">Tech Stack</h3></summary>
